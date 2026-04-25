@@ -11,3 +11,6 @@ __pycache__/
 
 # Project
 temp/
+
+# AI
+.claude/
