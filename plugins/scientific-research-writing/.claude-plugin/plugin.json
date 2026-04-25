@@ -1,0 +1,12 @@
+{
+  "name": "scientific-research-writing",
+  "version": "1.0.0",
+  "description": "Research workflow and scientific publishing: literature search, citation management, peer review, writing, slides, posters, grants. 38 skills.",
+  "author": {
+    "name": "K-Dense Inc."
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agent-skills",
+  "repository": "https://github.com/K-Dense-AI/scientific-agent-skills",
+  "license": "MIT",
+  "keywords": ["research", "writing", "literature-review", "citations", "peer-review", "publishing", "grants", "slides"]
+}

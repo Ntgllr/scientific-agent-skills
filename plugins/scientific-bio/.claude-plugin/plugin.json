@@ -1,0 +1,12 @@
+{
+  "name": "scientific-bio",
+  "version": "1.0.0",
+  "description": "Life sciences: bioinformatics, genomics, single-cell, clinical, cheminformatics-for-biology, medical imaging, drug discovery. 49 skills.",
+  "author": {
+    "name": "K-Dense Inc."
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agent-skills",
+  "repository": "https://github.com/K-Dense-AI/scientific-agent-skills",
+  "license": "MIT",
+  "keywords": ["bioinformatics", "genomics", "single-cell", "life-sciences", "drug-discovery", "medical-imaging", "cheminformatics"]
+}
