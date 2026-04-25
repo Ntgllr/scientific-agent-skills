@@ -1,0 +1,12 @@
+{
+  "name": "scientific-data-ml",
+  "version": "1.0.0",
+  "description": "Machine learning, statistics, numerical computing, time series, visualization, data frames, GPU optimization. 28 skills.",
+  "author": {
+    "name": "K-Dense Inc."
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agent-skills",
+  "repository": "https://github.com/K-Dense-AI/scientific-agent-skills",
+  "license": "MIT",
+  "keywords": ["machine-learning", "statistics", "data-science", "visualization", "time-series", "gpu", "deep-learning"]
+}

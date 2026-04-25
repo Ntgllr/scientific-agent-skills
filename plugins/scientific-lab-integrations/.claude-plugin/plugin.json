@@ -1,0 +1,12 @@
+{
+  "name": "scientific-lab-integrations",
+  "version": "1.0.0",
+  "description": "Lab platform SDKs and cloud lab integrations: Benchling, DNAnexus, LabArchive, LatchBio, OMERO, Opentrons, protocols.io, Ginkgo, PyLabRobot. 9 skills.",
+  "author": {
+    "name": "K-Dense Inc."
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agent-skills",
+  "repository": "https://github.com/K-Dense-AI/scientific-agent-skills",
+  "license": "MIT",
+  "keywords": ["lab-automation", "benchling", "opentrons", "cloud-lab", "lims", "dnanexus", "latchbio"]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "scientific-chem-phys",
+  "version": "1.0.0",
+  "description": "Chemistry, physics, quantum computing, materials science, symbolic math, astrophysics. 10 skills.",
+  "author": {
+    "name": "K-Dense Inc."
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agent-skills",
+  "repository": "https://github.com/K-Dense-AI/scientific-agent-skills",
+  "license": "MIT",
+  "keywords": ["chemistry", "physics", "quantum-computing", "materials-science", "astrophysics", "sympy"]
+}
